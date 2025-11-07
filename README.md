@@ -40,6 +40,20 @@
 - Basics of Data Science with Python  
 
 ---
+### 📊 Stats & Charts
+
+#### 🔥 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragmishra&layout=compact&theme=github_dark" alt="most used languages" />
+</p>
+
+#### ⚡ Tech Stack Overview
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnuragMishra88&show_icons=true&theme=github_dark" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnuragMishra88&theme=github-dark-blue" alt="GitHub streak" />
+</p>
+
+---
 
 ### 🎓 Certifications
 
