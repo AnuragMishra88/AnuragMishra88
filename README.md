@@ -49,23 +49,12 @@
 
 ---
 
-### 📊 GitHub Insights
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anuragmishra&show_icons=true&theme=github_dark" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragmishra&theme=github-dark-blue" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragmishra&layout=compact&theme=github_dark" />
-</p>
-
----
 
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/anurag-mishra-b17199233/]" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/anurag-mishra-b17199233/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:anuragmishra5433@gmail.com.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://github.com/AnuragMishra88" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
