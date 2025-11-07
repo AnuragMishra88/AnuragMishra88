@@ -1,7 +1,7 @@
 <!-- Professional GitHub Profile README for Anurag Mishra -->
 
 <h1 align="center">Hi 👋, I'm Anurag Mishra</h1>
-<h3 align="center">Information Technology Student | Full Stack Developer | Data Enthusiast</h3>
+<h3 align="center">Information Technology Student | Full Stack Developer | Problem Solver</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anuragmishra&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -55,9 +55,9 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/anurag-mishra-b17199233/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:anuragmishra5433@gmail.com.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/AnuragMishra88" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://www.linkedin.com/in/anurag-mishra-b17199233/" target="_blank">LinkedIn <strong>Profile</strong></a><br>
+  <a href="mailto:anuragmishra5433@gmail.com.com" target="_blank">Gmail</a><br>
+  <a href="https://github.com/AnuragMishra88" target="_blank">GitHub: <strong>Profile</strong></a><br>
   <a href="https://www.codechef.com/users/anuragmishra88" target="_blank">🍴 CodeChef: <strong>Profile</strong></a><br>
   <a href="https://leetcode.com/u/anuragmishra88/" target="_blank">Leetcode: <strong>Profile</strong></a><br>
 </p>
