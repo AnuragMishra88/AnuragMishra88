@@ -1,16 +1,82 @@
-## Hi there 👋
+<!-- Professional GitHub Profile README for Anurag Mishra -->
 
+<h1 align="center">Hi 👋, I'm Anurag Mishra</h1>
+<h3 align="center">Information Technology Student | Full Stack Developer | Data Enthusiast</h3>
 
-**AnuragMishra88/AnuragMishra88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anuragmishra&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  
+### 👨‍💻 About Me
+
+- 🎓 Pursuing **B.Tech in Information Technology**  
+- 💻 Interested in **Web Development, Data Structures & Algorithms, and Data Science**  
+- 🧠 Focused on mastering **Full Stack Development** using the MERN stack  
+- 🌱 Currently learning **advanced backend concepts** and **system design**  
+- 💬 I enjoy discussing **JavaScript, Node.js, React.js, MongoDB, and Python**  
+- ⚡ Always eager to explore **new technologies and scalable systems**
+
+---
+
+### 🛠️ Technical Skills
+
+#### 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript" />
+</p>
+
+#### 🌐 Web Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,mongodb,git,postman,vscode" />
+</p>
+
+#### 🧩 Core Competencies
+- Data Structures and Algorithms  
+- Object-Oriented Programming (OOP)  
+- Database Management Systems (DBMS) & SQL  
+- RESTful API Development  
+- Basics of Data Science with Python  
+
+---
+
+### 🎓 Certifications
+
+- **Introduction to IoT** — NPTEL  
+- **Enhancing Soft Skills and Personality** — NPTEL  
+- **The Complete Python Developer** — Udemy  
+- **VLSI for Beginners** — NIELIT, Calicut  
+
+---
+
+### 📊 GitHub Insights
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anuragmishra&show_icons=true&theme=github_dark" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragmishra&theme=github-dark-blue" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragmishra&layout=compact&theme=github_dark" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/anuragmishra" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:anurag.mishra@example.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://github.com/anuragmishra" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+---
+
+### 🧭 Professional Vision
+
+> “To leverage technology for building efficient, reliable, and user-focused solutions while continuously improving my craft as a developer.”
+
+---
+
+⭐ **Thank you for visiting my profile! Feel free to connect or collaborate.**
