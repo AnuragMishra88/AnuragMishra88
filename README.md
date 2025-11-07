@@ -40,20 +40,7 @@
 - Basics of Data Science with Python  
 
 ---
-### 📊 Stats & Charts
 
-#### 🔥 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragmishra&layout=compact&theme=github_dark" alt="most used languages" />
-</p>
-
-#### ⚡ Tech Stack Overview
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnuragMishra88&show_icons=true&theme=github_dark" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnuragMishra88&theme=github-dark-blue" alt="GitHub streak" />
-</p>
-
----
 
 ### 🎓 Certifications
 
@@ -71,6 +58,8 @@
   <a href="https://www.linkedin.com/in/anurag-mishra-b17199233/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:anuragmishra5433@gmail.com.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://github.com/AnuragMishra88" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://www.codechef.com/users/anuragmishra88" target="_blank">🍴 CodeChef: <strong>Profile</strong></a><br>
+  <a href="https://leetcode.com/u/anuragmishra88/" target="_blank">Leetcode: <strong>Profile</strong></a><br>
 </p>
 
 ---
