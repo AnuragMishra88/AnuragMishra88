@@ -62,8 +62,8 @@
 
 - **Technologies:** React.js, Node.js, Express.js, MongoDB, Chart.js
 - **Key Features:** Add/delete expenses, category-wise expense breakdown, monthly budget tracking, interactive charts for spending analysis
-- **Live Demo:** [Phone Expense Tracker Demo](https://cashtrack05.vercel.app/)
-- **GitHub Repo:** [github.com/AnuragMishra88/phone-expense-tracker](https://github.com/AnuragMishra88/CashTrack)
+- **Live Demo:** [CashTrack Demo](https://cashtrack05.vercel.app/)
+- **GitHub Repo:** [github.com/AnuragMishra88/CashTrack](https://github.com/AnuragMishra88/CashTrack)
 
 #### 📰 NewsAdda
 > A dynamic news aggregation platform that fetches and displays the latest news from various sources, allowing users to browse news by categories and search for specific topics.
@@ -99,30 +99,6 @@
   <a href="https://github.com/AnuragMishra88" target="_blank">GitHub: <strong>Profile</strong></a><br>
   <a href="https://www.codechef.com/users/anuragmishra88" target="_blank">🍴 CodeChef: <strong>Profile</strong></a><br>
   <a href="https://leetcode.com/u/anuragmishra88/" target="_blank">Leetcode: <strong>Profile</strong></a><br>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnuragMishra88&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnuragMishra88&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragMishra88&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnuragMishra88&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
